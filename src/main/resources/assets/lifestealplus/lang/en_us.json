@@ -1,0 +1,16 @@
+{
+  "key.lifestealplus.open_menu": "Open Tools Menu",
+  "lifestealplus.screen.title": "Tools",
+  "lifestealplus.state.on": "ON",
+  "lifestealplus.state.off": "OFF",
+  "lifestealplus.module.miner": "Miner",
+  "lifestealplus.module.tunnel": "Tunnel 3x3",
+  "lifestealplus.module.height_tunnel": "Tunnel 1x2",
+  "lifestealplus.module.shaft": "Shaft",
+  "lifestealplus.module.staircase": "Staircase",
+  "lifestealplus.module.vein_miner": "Vein Miner",
+  "lifestealplus.module.tree_feller": "Tree Feller",
+  "lifestealplus.module.auto_farm": "Auto Farm",
+  "lifestealplus.module.nuker": "Nuker",
+  "lifestealplus.module.torch_placer": "Torch Placer"
+}

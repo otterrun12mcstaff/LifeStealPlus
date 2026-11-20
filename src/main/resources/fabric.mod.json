@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "lifestealplus",
+  "version": "${version}",
+  "name": "LifeStealPlus",
+  "description": "Client-side tools menu with mining and utility modules, opened with the _ key.",
+  "authors": [
+    "LifeStealPlus"
+  ],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.lifestealplus.LifeStealPlusClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.20.1",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
